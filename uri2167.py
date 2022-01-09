@@ -1,0 +1,1 @@
+# preciso descorbrir como pegar varios valores no for 
